@@ -1,0 +1,14 @@
+C:\Users\IArch\Documents\C#\Quintessence Internship\Intern Projects\ConvertToBinary\ConvertToBinary\bin\Debug\ConvertToBinary.exe.config
+C:\Users\IArch\Documents\C#\Quintessence Internship\Intern Projects\ConvertToBinary\ConvertToBinary\bin\Debug\ConvertToBinary.exe
+C:\Users\IArch\Documents\C#\Quintessence Internship\Intern Projects\ConvertToBinary\ConvertToBinary\bin\Debug\ConvertToBinary.pdb
+C:\Users\IArch\Documents\C#\Quintessence Internship\Intern Projects\ConvertToBinary\ConvertToBinary\obj\Debug\ConvertToBinary.csprojAssemblyReference.cache
+C:\Users\IArch\Documents\C#\Quintessence Internship\Intern Projects\ConvertToBinary\ConvertToBinary\obj\Debug\ConvertToBinary.csproj.CoreCompileInputs.cache
+C:\Users\IArch\Documents\C#\Quintessence Internship\Intern Projects\ConvertToBinary\ConvertToBinary\obj\Debug\ConvertToBinary.exe
+C:\Users\IArch\Documents\C#\Quintessence Internship\Intern Projects\ConvertToBinary\ConvertToBinary\obj\Debug\ConvertToBinary.pdb
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\ConvertToBinary\ConvertToBinary\bin\Debug\ConvertToBinary.exe.config
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\ConvertToBinary\ConvertToBinary\bin\Debug\ConvertToBinary.exe
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\ConvertToBinary\ConvertToBinary\bin\Debug\ConvertToBinary.pdb
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\ConvertToBinary\ConvertToBinary\obj\Debug\ConvertToBinary.csproj.CoreCompileInputs.cache
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\ConvertToBinary\ConvertToBinary\obj\Debug\ConvertToBinary.exe
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\ConvertToBinary\ConvertToBinary\obj\Debug\ConvertToBinary.pdb
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\ConvertToBinary\ConvertToBinary\obj\Debug\ConvertToBinary.csproj.AssemblyReference.cache

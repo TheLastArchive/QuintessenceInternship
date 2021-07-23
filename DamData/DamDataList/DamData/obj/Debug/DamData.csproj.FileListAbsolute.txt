@@ -1,0 +1,19 @@
+C:\Users\IArch\Documents\C#\Quintessence Internship\Intern Projects\DamData\DamData\bin\Debug\DamData.exe.config
+C:\Users\IArch\Documents\C#\Quintessence Internship\Intern Projects\DamData\DamData\bin\Debug\DamData.exe
+C:\Users\IArch\Documents\C#\Quintessence Internship\Intern Projects\DamData\DamData\bin\Debug\DamData.pdb
+C:\Users\IArch\Documents\C#\Quintessence Internship\Intern Projects\DamData\DamData\obj\Debug\DamData.csprojAssemblyReference.cache
+C:\Users\IArch\Documents\C#\Quintessence Internship\Intern Projects\DamData\DamData\obj\Debug\DamData.csproj.CoreCompileInputs.cache
+C:\Users\IArch\Documents\C#\Quintessence Internship\Intern Projects\DamData\DamData\obj\Debug\DamData.exe
+C:\Users\IArch\Documents\C#\Quintessence Internship\Intern Projects\DamData\DamData\obj\Debug\DamData.pdb
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\DamData\DamData\bin\Debug\DamData.exe.config
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\DamData\DamData\bin\Debug\DamData.exe
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\DamData\DamData\bin\Debug\DamData.pdb
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\DamData\DamData\obj\Debug\DamData.csproj.CoreCompileInputs.cache
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\DamData\DamData\obj\Debug\DamData.exe
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\DamData\DamData\obj\Debug\DamData.pdb
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\DamData\DamData\obj\Debug\DamData.csproj.ResolveComReference.cache
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\DamData\DamData\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\DamData\DamData\bin\Debug\GemBox.Spreadsheet.dll
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\DamData\DamData\bin\Debug\GemBox.Spreadsheet.xml
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\DamData\DamData\obj\Debug\DamData.csproj.CopyComplete
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\DamData\DamData\obj\Debug\DamData.csproj.AssemblyReference.cache

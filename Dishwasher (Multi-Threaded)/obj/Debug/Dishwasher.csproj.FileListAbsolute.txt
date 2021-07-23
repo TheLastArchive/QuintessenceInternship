@@ -1,0 +1,7 @@
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\ExtraProject4\Dishwasher (Multi-Threaded)\bin\Debug\Dishwasher (Multi-Threaded).exe.config
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\ExtraProject4\Dishwasher (Multi-Threaded)\bin\Debug\Dishwasher (Multi-Threaded).exe
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\ExtraProject4\Dishwasher (Multi-Threaded)\bin\Debug\Dishwasher (Multi-Threaded).pdb
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\ExtraProject4\Dishwasher (Multi-Threaded)\obj\Debug\Dishwasher.csproj.AssemblyReference.cache
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\ExtraProject4\Dishwasher (Multi-Threaded)\obj\Debug\Dishwasher.csproj.CoreCompileInputs.cache
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\ExtraProject4\Dishwasher (Multi-Threaded)\obj\Debug\Dishwasher (Multi-Threaded).exe
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\ExtraProject4\Dishwasher (Multi-Threaded)\obj\Debug\Dishwasher (Multi-Threaded).pdb

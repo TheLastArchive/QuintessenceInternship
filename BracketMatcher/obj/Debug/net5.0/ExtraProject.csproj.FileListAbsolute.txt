@@ -1,0 +1,32 @@
+C:\Users\IArch\Documents\C#\Quintessence Internship\Intern Projects\ExtraProject\bin\Debug\net5.0\ExtraProject.exe
+C:\Users\IArch\Documents\C#\Quintessence Internship\Intern Projects\ExtraProject\bin\Debug\net5.0\ExtraProject.deps.json
+C:\Users\IArch\Documents\C#\Quintessence Internship\Intern Projects\ExtraProject\bin\Debug\net5.0\ExtraProject.runtimeconfig.json
+C:\Users\IArch\Documents\C#\Quintessence Internship\Intern Projects\ExtraProject\bin\Debug\net5.0\ExtraProject.runtimeconfig.dev.json
+C:\Users\IArch\Documents\C#\Quintessence Internship\Intern Projects\ExtraProject\bin\Debug\net5.0\ExtraProject.dll
+C:\Users\IArch\Documents\C#\Quintessence Internship\Intern Projects\ExtraProject\bin\Debug\net5.0\ref\ExtraProject.dll
+C:\Users\IArch\Documents\C#\Quintessence Internship\Intern Projects\ExtraProject\bin\Debug\net5.0\ExtraProject.pdb
+C:\Users\IArch\Documents\C#\Quintessence Internship\Intern Projects\ExtraProject\obj\Debug\net5.0\ExtraProject.csprojAssemblyReference.cache
+C:\Users\IArch\Documents\C#\Quintessence Internship\Intern Projects\ExtraProject\obj\Debug\net5.0\ExtraProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IArch\Documents\C#\Quintessence Internship\Intern Projects\ExtraProject\obj\Debug\net5.0\ExtraProject.AssemblyInfoInputs.cache
+C:\Users\IArch\Documents\C#\Quintessence Internship\Intern Projects\ExtraProject\obj\Debug\net5.0\ExtraProject.AssemblyInfo.cs
+C:\Users\IArch\Documents\C#\Quintessence Internship\Intern Projects\ExtraProject\obj\Debug\net5.0\ExtraProject.csproj.CoreCompileInputs.cache
+C:\Users\IArch\Documents\C#\Quintessence Internship\Intern Projects\ExtraProject\obj\Debug\net5.0\ExtraProject.dll
+C:\Users\IArch\Documents\C#\Quintessence Internship\Intern Projects\ExtraProject\obj\Debug\net5.0\ref\ExtraProject.dll
+C:\Users\IArch\Documents\C#\Quintessence Internship\Intern Projects\ExtraProject\obj\Debug\net5.0\ExtraProject.pdb
+C:\Users\IArch\Documents\C#\Quintessence Internship\Intern Projects\ExtraProject\obj\Debug\net5.0\ExtraProject.genruntimeconfig.cache
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\BracketMatcher\obj\Debug\net5.0\ExtraProject.csproj.AssemblyReference.cache
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\BracketMatcher\obj\Debug\net5.0\ExtraProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\BracketMatcher\obj\Debug\net5.0\ExtraProject.AssemblyInfoInputs.cache
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\BracketMatcher\obj\Debug\net5.0\ExtraProject.AssemblyInfo.cs
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\BracketMatcher\obj\Debug\net5.0\ExtraProject.csproj.CoreCompileInputs.cache
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\BracketMatcher\obj\Debug\net5.0\ExtraProject.dll
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\BracketMatcher\obj\Debug\net5.0\ref\ExtraProject.dll
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\BracketMatcher\obj\Debug\net5.0\ExtraProject.pdb
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\BracketMatcher\bin\Debug\net5.0\ExtraProject.exe
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\BracketMatcher\bin\Debug\net5.0\ExtraProject.deps.json
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\BracketMatcher\bin\Debug\net5.0\ExtraProject.runtimeconfig.json
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\BracketMatcher\bin\Debug\net5.0\ExtraProject.runtimeconfig.dev.json
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\BracketMatcher\bin\Debug\net5.0\ExtraProject.dll
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\BracketMatcher\bin\Debug\net5.0\ref\ExtraProject.dll
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\BracketMatcher\bin\Debug\net5.0\ExtraProject.pdb
+C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\BracketMatcher\obj\Debug\net5.0\ExtraProject.genruntimeconfig.cache
