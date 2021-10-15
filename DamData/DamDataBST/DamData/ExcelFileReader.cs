@@ -4,7 +4,7 @@ namespace DamData
 {
     class ExcelFileReader
     {
-        string filePath = @"C:\Users\IArch\Documents\C#\QuintessenceInternship\InternProjects\DamData\DamData\DamDataFile.xlsx";
+        string filePath = @"Your Path Here";
         private string fileContents = "";
 
         public string GetExcelFileContents() => this.fileContents;
